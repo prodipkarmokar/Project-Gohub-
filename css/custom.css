@@ -1,0 +1,612 @@
+/* ===============================================
+Extranal fonts
+==================================================*/
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-RegularItalicAlt.eot');
+    src: local('Brown-RegularItalicAlt'),
+        url('Brown-RegularItalicAlt.eot?#iefix') format('embedded-opentype'),
+        url('Brown-RegularItalicAlt.woff') format('woff'),
+        url('Brown-RegularItalicAlt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-LightItalic.eot');
+    src: local('Brown-LightItalic'),
+        url('Brown-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Brown-LightItalic.woff') format('woff'),
+        url('Brown-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-Light.eot');
+    src: local('Brown-Light'),
+        url('Brown-Light.eot?#iefix') format('embedded-opentype'),
+        url('Brown-Light.woff') format('woff'),
+        url('Brown-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-Regular.eot');
+    src: local('Brown-Regular'),
+        url('Brown-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Brown-Regular.woff') format('woff'),
+        url('Brown-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-BoldAlt.eot');
+    src: local('Brown-BoldAlt'),
+        url('Brown-BoldAlt.eot?#iefix') format('embedded-opentype'),
+        url('Brown-BoldAlt.woff') format('woff'),
+        url('Brown-BoldAlt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-ThinItalic.eot');
+    src: local('Brown-ThinItalic'),
+        url('Brown-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Brown-ThinItalic.woff') format('woff'),
+        url('Brown-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-Thin.eot');
+    src: local('Brown-Thin'),
+        url('Brown-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Brown-Thin.woff') format('woff'),
+        url('Brown-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-BoldItalicAlt.eot');
+    src: local('Brown-BoldItalicAlt'),
+        url('Brown-BoldItalicAlt.eot?#iefix') format('embedded-opentype'),
+        url('Brown-BoldItalicAlt.woff') format('woff'),
+        url('Brown-BoldItalicAlt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-RegularItalic.eot');
+    src: local('Brown-RegularItalic'),
+        url('Brown-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('Brown-RegularItalic.woff') format('woff'),
+        url('Brown-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-LightBackslanted.eot');
+    src: local('Brown-LightBackslanted'),
+        url('Brown-LightBackslanted.eot?#iefix') format('embedded-opentype'),
+        url('Brown-LightBackslanted.woff') format('woff'),
+        url('Brown-LightBackslanted.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-RegularBackslantedAlt.eot');
+    src: local('Brown-RegularBackslantedAlt'),
+        url('Brown-RegularBackslantedAlt.eot?#iefix') format('embedded-opentype'),
+        url('Brown-RegularBackslantedAlt.woff') format('woff'),
+        url('Brown-RegularBackslantedAlt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-RegularAlt.eot');
+    src: local('Brown-RegularAlt'),
+        url('Brown-RegularAlt.eot?#iefix') format('embedded-opentype'),
+        url('Brown-RegularAlt.woff') format('woff'),
+        url('Brown-RegularAlt.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-Bold.eot');
+    src: local('Brown-Bold'),
+        url('Brown-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Brown-Bold.woff') format('woff'),
+        url('Brown-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-ThinBackslanted.eot');
+    src: local('Brown-ThinBackslanted'),
+        url('Brown-ThinBackslanted.eot?#iefix') format('embedded-opentype'),
+        url('Brown-ThinBackslanted.woff') format('woff'),
+        url('Brown-ThinBackslanted.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-RegularBackslanted.eot');
+    src: local('Brown-RegularBackslanted'),
+        url('Brown-RegularBackslanted.eot?#iefix') format('embedded-opentype'),
+        url('Brown-RegularBackslanted.woff') format('woff'),
+        url('Brown-RegularBackslanted.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-BoldBackslanted.eot');
+    src: local('Brown-BoldBackslanted'),
+        url('Brown-BoldBackslanted.eot?#iefix') format('embedded-opentype'),
+        url('Brown-BoldBackslanted.woff') format('woff'),
+        url('Brown-BoldBackslanted.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-BoldItalic.eot');
+    src: local('Brown-BoldItalic'),
+        url('Brown-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Brown-BoldItalic.woff') format('woff'),
+        url('Brown-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Brown';
+    src: url('Brown-BoldBackslanted-Alt.eot');
+    src: local('Brown-BoldBackslanted-Alt'),
+        url('Brown-BoldBackslanted-Alt.eot?#iefix') format('embedded-opentype'),
+        url('Brown-BoldBackslanted-Alt.woff') format('woff'),
+        url('Brown-BoldBackslanted-Alt.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+/* ===============================================
+Global Sectors
+==================================================*/
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Brown';
+}
+
+/* ===============================================
+Header section
+==================================================*/
+.hero-section {
+    width: 100%;
+    background-image: url('../img/Vectoe.png');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0px 100px;
+}
+
+.s-bac {
+    background-color: #845cff;
+    display: block;
+    padding: 0px 18px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.navbar-brand img {
+    width: 100px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-size: 19px;
+    font-weight: bold;
+    color: #32325d;
+}
+.s-text {
+    color: white !important;
+}
+
+/* ===============================================
+banner-content section
+==================================================*/
+.banner-content {
+    width: 100%;
+}
+
+.banner-text {
+    width: 100%;
+    margin-top: 280px;
+    font-family: 'Brown';
+    margin-bottom: 360px;
+}
+
+.banner-text h2 {
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.banner-text p {
+    margin-top: 62px;
+    font-weight: 300;
+    font-size: 23px;
+    margin-bottom: 30px;
+}
+
+.banner-text strong,
+.safety-con {
+    font-size: 19px;
+    font-weight: normal;
+}
+
+.banner-text .banner-btn,
+.banner-btn {
+    border: none;
+    background: #845cff;
+    border-radius: 5px;
+    padding: 11px 22px;
+    font-weight: bold;
+    font-size: 15px;
+    margin-right: 20px;
+    box-shadow: 0px 0px 21px #9d92db;
+}
+
+.btn-primary:not(:disabled):not(.disabled):active {
+    border: none;
+}
+
+.banner-text.btn-primary:hover {
+    border-radius: 0;
+    color: #fff;
+    background-color: ;
+    border-color: ;
+}
+
+/* ===============================================
+About-section
+==================================================*/
+
+.about-section {
+    position: relative;
+    padding: 50px 0px;
+}
+
+.about-section .main-fu-section {
+    position: absolute;
+    margin-top: -400px;
+}
+
+.main-box {}
+
+.main-box .title-section {
+    padding: 0;
+}
+
+.main-box .title-section h2 {
+    font-weight: 300;
+    font-size: 48px;
+}
+
+.main-box .title-section h2 {
+    font-weight: 300;
+    font-size: 48px;
+    margin-top: 156px;
+}
+
+.main-box .feature-item {
+    background-color: white;
+    padding: 50px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #ececec;
+}
+
+.main-box .mar-one {
+    margin-top: 30px;
+}
+
+.feature-item h2 {
+    font-weight: 300;
+    font-size: 30px;
+    margin: 15px 0px;
+    color: #212240;
+}
+
+.feature-item p {}
+
+/* ===============================================
+Services section
+==================================================*/
+
+.service-section {
+    width: 100%;
+    margin-top: 400px;
+    padding: 100px 0px;
+    background-image: url('../img/serviceBG.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+
+.flex-container {
+    display: flex;
+
+}
+
+.Services-title h3 {
+    font-weight: 300;
+    font-size: 48px;
+}
+
+.Services-title p {
+    font-weight: 300;
+    font-size: 23px;
+}
+
+.service-name-section {
+    width: 100%;
+    padding: 100px 0px;
+    overflow: hidden;
+}
+
+.service-name h5 {
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.service-name p {
+    font-weight: 300;
+}
+
+.ser-mar-top {
+    margin-top: 150px;
+}
+
+/* ===============================================
+Whatwedo section
+==================================================*/
+
+.whatwedo-section {
+    padding: 100px 0px;
+}
+.whatwedo-section .safety-content {
+    padding: 20px;
+}
+
+.safety-content h6 {
+    font-weight: 300;
+    font-size: 46px;
+}
+
+.safety-content p {
+    font-weight: 300;
+    font-size: 23px;
+    margin: 30px 0px;
+}
+
+.left-side ul li,
+.right-side ul li {
+    list-style: none;
+}
+
+.left-side p,
+.right-side p {
+    margin: 0;
+    margin-bottom: 0px;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 50px;
+}
+
+.content {}
+
+.safety-img img {
+    width: 90%;
+}
+
+/* ===============================================
+finances section
+==================================================*/
+.finances-section {
+    width: 100%;
+    padding: 50px 0px;
+    background-image: url('../img/Illustrations.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+
+.finances-title p {
+    font-weight: 300;
+    font-size: 23px;
+}
+
+.finances-title h2 {
+    font-weight: 300;
+    font-size: 48px;
+    margin-top: 100px;
+}
+
+.fin-lef {
+    margin-left: 200px;
+}
+
+.finances-title-save h2 {
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.finances-title-save ul li {
+    list-style: none;
+}
+
+.finances-title-save ul li p {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.margin-to {
+    margin-top: 100px;
+}
+
+.Services-nam {
+    padding: 0px 0px 50px;
+}
+
+/* Footer top */
+.top-footer {
+    padding: 20px 0px;
+    width: 100%;
+    background-image: url('../img/footer-top.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+
+.t-foo {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.top-content h2 {
+    margin: 125px 0px 0;
+    font-size: 48px;
+    font-weight: 300;
+}
+
+.top-content p {
+    margin: 1px 0px 100px;
+    font-size: 23px;
+    font-weight: 300;
+}
+
+.input {
+    position: relative;
+}
+
+.input-inner {
+    margin: 140px auto;
+    margin-left: auto;
+    margin-left: auto;
+    padding: 30px;
+    border: none;
+    box-shadow: 0px 2px 20px #e2def4;
+}
+
+.form-group img {
+    position: absolute;
+    top: 35%;
+    right: 5%;
+}
+
+.bottom-footer {
+    background-color: #212240;
+    padding: 100px 0px;
+}
+
+.c-mar {
+    margin-top: 30px;
+}
+
+.company-text ul li {
+    color: white;
+    list-style: none;
+}
+
+.company-text ul li h3 {
+    font-size: 16px;
+}
+
+.social-icon ul {
+    display: flex;
+}
+
+.social-icon ul li {
+    list-style: none;
+}
+
+.social-icon ul li a {
+    margin-right: 15px;
+    color: #4f4d70;
+    font-size: 20px;
+    margin-top: 20px;
+    display: block;
+}
+
+.company-text-two ul li {
+    margin: 20px 0px;
+}
+
+.company-text-two ul li a {
+    font-weight: 300;
+    color: white;
+}
+
+.bg-cus {
+    background-color: #212240;
+    padding: 20px 0px;
+}
+.left-text p{
+     color: #555377;
+}
+.right-text ul{
+    display: flex;
+    justify-content: right;
+}
+.right-text ul li {
+    list-style: none;
+
+}
+.right-text ul li a {
+    color: #555377;
+    margin-left: 30px;
+}
